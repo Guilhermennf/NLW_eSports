@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./web/assets/img/nlw-esports-logo.svg" alt="Next Level Week Esports Logo"/></p>
+<img src="./web/src/assets/nlw-esports-logo.svg" alt="Next Level Week Esports Logo"/></p>
 
 <br>
 
@@ -28,7 +28,7 @@ The project is called *Find your Duo*.
 It is a platform to find the perfect partner to play your favorite game together, by connecting your Twitch.tv account.
 
 <p align="center">
-<img src="./web/assets/img/app-preview.jpeg" alt="Next Level Week Esports Logo"/></p>
+<img src="./assets/img/app-preview.jpeg" alt="Next Level Week Esports Logo"/></p>
 
 ## Stack and tools
 * [Node.js](https://nodejs.org/en/)
