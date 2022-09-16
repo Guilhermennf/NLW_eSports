@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./web/src/assets/nlw-esports-logo.svg" alt="Next Level Week Esports Logo"/></p>
+<img src="./web/src/assets/logo-nlw-esports.svg" alt="Next Level Week Esports Logo"/></p>
 
 <br>
 
