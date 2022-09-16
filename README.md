@@ -21,7 +21,7 @@ https://nlw-e-sports-guilhermennf.vercel.app/
 ## Description
 
 The project is called _Find your Duo_.
-It is a platform to find the perfect partner to play your favorite game together, by connecting your Twitch.tv account.
+It is a platform to find the perfect partner to play your favorite game together.
 
 <p align="center">
 <img src="./web/src/assets/NLW_eSports.jpg" alt="Next Level Week Esports Logo"/></p>
